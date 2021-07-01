@@ -138,7 +138,7 @@ use parser::Node;
 #[doc(hidden)]
 mod ffi;
 #[doc(hidden)]
-mod parser;
+pub mod parser;
 #[doc(hidden)]
 mod select;
 
